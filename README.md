@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1150&lines=HELLO,+MY+NAME+is+Thalles+Eduardo;I'm+20+years+old;I+am+from+Brazil,+GO;Study+science+of+computer+at+institute+federal+goiano;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thalles-Eduardo&show_icons=true&theme=radical&title_color=ff2401&text_color=FFFFFF&icon_color=ff2401" alt="Thalles Eduardo    github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalles-Eduardo&layout=compact&theme=radical&card_width=400&title_color=ff2401" alt="Thalles Eduardo github stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-thalles-eduardo.vercel.app/api?username=Thalles-Eduardo&show_icons=true&theme=radical&title_color=ff2401&text_color=FFFFFF&icon_color=ff2401" alt="Thalles Eduardo github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-thalles-eduardo.vercel.app/api/top-langs/?username=Thalles-Eduardo&layout=compact&theme=radical&card_width=400&title_color=ff2401" alt="Thalles Eduardo github stats"/>
 </div>
 
 
