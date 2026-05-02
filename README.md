@@ -13,6 +13,7 @@
 
 ### Main skills:
 <div style="display: inline_block"><br/>
+    [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ff0000&color=black">
     <img alt="Spring boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=green&color=black">
 </div><br/>
